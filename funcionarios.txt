@@ -1,0 +1,1 @@
+Gerente [Nome: Khaled, Salário: R$10000.0]Gerente [Nome: Khaled, Salário: R$10000.0]Operador [Nome: Marli, Salário: R$90000.0]Gerente [Nome: Andre, Salário: R$2000.0]Operador [Nome: Bicarbonato, Salário: R$200.0]
